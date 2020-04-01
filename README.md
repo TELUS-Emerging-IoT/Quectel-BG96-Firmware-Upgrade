@@ -13,7 +13,7 @@ Instructions on how to upgrade the **BG96 module firmware** on  TELUS Sixfab RPi
 
 5. Connect micro USB cable to TELUS Sixfab Shield and plug the other end to the computer.
 
-![alt_text](images/IMG_8400_320.jpg) ![alt_text](images/IMG_8402_320.jpg)
+...![alt_text](images/IMG_8400_320.jpg) ![alt_text](images/IMG_8402_320.jpg)
 
 6. Press and hold **Power Key** button for 3 seconds.
 
@@ -25,4 +25,4 @@ Instructions on how to upgrade the **BG96 module firmware** on  TELUS Sixfab RPi
 
 8. Launch **QFlash_V4.8.exe** application inside the extracted QFlash_V4.8 folder. `(Note: Paths to the tool and firmware may NOT contain spaces or non-English characters!)`
 
-9. 
+...A. Buadrate
