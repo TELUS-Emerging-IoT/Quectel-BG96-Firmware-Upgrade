@@ -1,6 +1,8 @@
 # Quectel-BG96-Firmware-Upgrade
 Instructions on how to upgrade the **BG96 module firmware** on  TELUS Sixfab RPi Shield.
 
+`You need Windows Operating System to perform this upgrade.`
+
 1. Download, Unzip and Install **Quectel LTE Windows USB driver** (https://iotdevkit.s3.ca-central-1.amazonaws.com/Quectel_LTE_Windows_USB_Driver_V1.0.zip)
 
 2. Download and Unzip **Quectel QFlash Porgrammer** application (https://iotdevkit.s3.ca-central-1.amazonaws.com/QFlash_V4.8.zip)
