@@ -10,3 +10,7 @@ Instructions on how to upgrade the **BG96 module firmware** on  TELUS Sixfab RPi
 3. Download and Unzip **BG96 Firmware** file (https://iotdevkit.s3.ca-central-1.amazonaws.com/BG96MAR02A07M1G_01.016.01.016.zip)
 
 4. Open **Windows Device Manager**, expand the **Ports (COM & LPT)** section.
+
+5. Connect micro USB cable to TELUS Sixfab Shield and plug the other end to the computer.
+
+![alt_text](images/IMG_8400_320.jpg) ![alt_text](images/IMG_8402_320.jpg)
