@@ -3,6 +3,8 @@ Instructions on how to upgrade the **BG96 module firmware** on  TELUS Sixfab RPi
 
 `You need Windows Operating System to perform this upgrade.`
 
+## Update Procedure
+
 1. Download, Unzip and Install **Quectel LTE Windows USB driver** (https://iotdevkit.s3.ca-central-1.amazonaws.com/Quectel_LTE_Windows_USB_Driver_V1.0.zip)
 
 2. Download and Unzip **Quectel QFlash Porgrammer** application (https://iotdevkit.s3.ca-central-1.amazonaws.com/QFlash_V4.8.zip)
@@ -39,4 +41,8 @@ Instructions on how to upgrade the **BG96 module firmware** on  TELUS Sixfab RPi
 
       ![alt_text](images/FW_Upgrade_Progress.png)
 
-13. 
+13. "**PASS, FW upgrade success**” will display in the status area of the QFlash window after ~2 minutes+ `142 seconds in the screenshot below`
+
+      ![alt_text](images/FW_Success.png)
+
+14. and you're done!
