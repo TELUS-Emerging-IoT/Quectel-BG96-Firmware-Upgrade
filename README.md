@@ -88,3 +88,11 @@ Save serial port settings (`Setup -> Save Setup`)
    ![alt_text](images/Test_Done_Repeat.png)
    
 9. The screenshot shown above indicate successful test - and you're done.
+
+# Download pre-configured TELUS Sixfab RPi Image
+
+After updating the firmware, next step is to download this pre-configured image with pre-installed PPP dialer and Sixfab RPi library with demo applications.
+
+https://github.com/TELUS-Emerging-IoT/TELUS_Sixfab_Raspi_Image
+
+
