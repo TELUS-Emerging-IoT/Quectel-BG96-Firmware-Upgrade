@@ -47,7 +47,7 @@ Instructions on how to upgrade the **BG96 module firmware** on  TELUS Sixfab RPi
 
 14. and you're done!
 
-## Test Procedure (Optional)
+## Test the Firmware (Optional)
 
 This is an optional test to check if the firmware is working after the upgrade. 
 
@@ -60,6 +60,8 @@ You need to ensure the following:
 You need these tools:
 - Download and Install **TeraTerm** (https://osdn.net/projects/ttssh2/releases/)
 - Download **TTL script** here (https://iotdevkit.s3.ca-central-1.amazonaws.com/TELUS_Sixfab_Shield.TTL) 
+
+### Procedure
 
 1. Disconnect and reconnect the Micro-USB cable from BG96 board to the test computer.
 
