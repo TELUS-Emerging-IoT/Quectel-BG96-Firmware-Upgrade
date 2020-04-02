@@ -31,4 +31,10 @@ Instructions on how to upgrade the **BG96 module firmware** on  TELUS Sixfab RPi
 
 11. Click **Load FW Files** button. Select **acdb.mbn** file inside **BG96MAR02A07M1G_01.016.01.016\UPDATE** folder and click OK. `QFlash winsow will update with a list of files to be programmed`
 
+   ![alt_text](images/Load_FW_Files.png)
+
 12. Click **Start** button to upgrade the firmware.
+
+   ![alt_text](images/QFlash_V48.png)
+
+
