@@ -55,8 +55,27 @@ You need to ensure the following:
 - SIM is inserted in the SIM slot or eSIM switch (`shown in image below`) is selected
 - LTE antenna is attached
 
-![alt_text](images/SIMMUX.jpg)
+   ![alt_text](images/SIMMUX.jpg) ![alt_text](images/IMG_8408.jpg)
 
 You need these tools:
 - Download and Install **TeraTerm** (https://osdn.net/projects/ttssh2/releases/)
-- Download **TTL script** here () 
+- Download **TTL script** here (https://iotdevkit.s3.ca-central-1.amazonaws.com/TELUS_Sixfab_Shield.TTL) 
+
+1. Disconnect and reconnect the Micro-USB cable from BG96 board to the test computer.
+
+2. Press and hold **Power Key** button for 3 seconds.
+
+3. On the Test Computer, open **Windows Device Manager** and take note of the COM ports shown. You will use the COM Port number of AT Port. `Shown in the image below`
+
+   ![alt_text](images/COM_Ports_TTL.png)
+
+4. Launch **Tera Term** serial console Windows application.
+
+5. In Tera Term press **ALT+N** (`or use File -> New Connection`) to open the New Connection dialog.
+Select Serial, then the COM Port labelled **Quectel USB AT Port**
+
+6. Check serial port settings (`Setup -> Serial Port`), these should be: **115200 8N1**
+Save serial port settings (`Setup -> Save Setup`)
+
+   ![alt_text](images/Setup_Serial_Port.png) ![alt_text](images/Tera_Term_Settings.png)
+
