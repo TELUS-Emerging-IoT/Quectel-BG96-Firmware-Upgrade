@@ -25,6 +25,8 @@ Instructions on how to upgrade the **BG96 module firmware** on  TELUS Sixfab RPi
 
 8. Launch **QFlash_V4.8.exe** application inside the extracted QFlash_V4.8 folder. `(Note: Paths to the tool and firmware may NOT contain spaces or non-English characters!)`
 
+      ![alt_text](images/QFlash_V48.png)
+
 9. Set **Buadrate** to **460800**
 
 10. Set **COM Port** to COM port number of **Quectel USB DM Port**
@@ -35,6 +37,6 @@ Instructions on how to upgrade the **BG96 module firmware** on  TELUS Sixfab RPi
 
 12. Click **Start** button to upgrade the firmware.
 
-      ![alt_text](images/QFlash_V48.png)
+      ![alt_text](images/FW_Upgrade_Progress.png)
 
-
+13. 
