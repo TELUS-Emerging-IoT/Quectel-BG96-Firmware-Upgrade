@@ -79,3 +79,12 @@ Save serial port settings (`Setup -> Save Setup`)
 
    ![alt_text](images/Setup_Serial_Port.png) ![alt_text](images/Tera_Term_Settings.png)
 
+7. Click on the **Tera Term** console panel and type **ATI** and press enter. `The BG96 should respond with the modem firmware version info displayed in the console`
+
+   ![alt_text](images/Type_ATI.png)
+   
+8. Tera Term macro will now be used to send a sequence of AT commands. Load the macro by selecting `Control -> Macro` then select **TELUS_Sixfab_Shield.TTL** from the list.
+
+   ![alt_text](images/Test_Done_Repeat.png)
+   
+9. The screenshot shown above indicate successful test - and you're done.
