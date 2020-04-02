@@ -46,3 +46,17 @@ Instructions on how to upgrade the **BG96 module firmware** on  TELUS Sixfab RPi
       ![alt_text](images/FW_Success.png)
 
 14. and you're done!
+
+## Test Procedure (Optional)
+
+This is an optional test to check if the firmware is working after the upgrade. 
+
+You need to ensure the following:
+- there is a SIM inserted in the SIM slot or eSIM switch (`shown in image below`) is selected
+- LTE antenna is attached
+
+![alt_text](images/SIMMUX.jpg)
+
+You need these tools:
+- Download TeraTerm (https://osdn.net/projects/ttssh2/releases/)
+- Download TTL script 
